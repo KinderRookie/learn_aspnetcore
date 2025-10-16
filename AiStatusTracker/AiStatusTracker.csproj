@@ -22,7 +22,6 @@
 
     <ItemGroup>
       <Folder Include="Models\Domain\" />
-      <Folder Include="Models\Dtos\" />
     </ItemGroup>
 
 </Project>
