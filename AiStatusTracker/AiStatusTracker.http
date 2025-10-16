@@ -1,0 +1,6 @@
+@AiStatusTracker_HostAddress = http://localhost:5272
+
+GET {{AiStatusTracker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
